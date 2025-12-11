@@ -13,6 +13,8 @@
 - Никаких серверных технологий — чистый статик
 
 ## Автор
-@твой_ник  
+X: @kimnkitae
+facebook: Kimnkitae
+instagram: kimnkitae
 Telegram: @max7c 
 Почта: mainworkkim@gmail.com
