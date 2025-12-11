@@ -1,0 +1,14 @@
+<svg width="241" height="207" viewBox="0 0 241 207" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_300_71" fill="white">
+<path d="M0 31C0 22.7157 6.71573 16 15 16H226C234.284 16 241 22.7157 241 31V192C241 200.284 234.284 207 226 207H15C6.71573 207 0 200.284 0 192V31Z"/>
+</mask>
+<path d="M-15 11C-15 -5.56854 -1.56854 -19 15 -19H226C242.569 -19 256 -5.56854 256 11L226 51H15L-15 11ZM256 192C256 208.569 242.569 222 226 222H15C-1.56854 222 -15 208.569 -15 192H15H226H256ZM15 222C-1.56854 222 -15 208.569 -15 192V11C-15 -5.56854 -1.56854 -19 15 -19V51V192V222ZM226 -19C242.569 -19 256 -5.56854 256 11V192C256 208.569 242.569 222 226 222V192V51V-19Z" fill="#4AB6D1" mask="url(#path-1-inside-1_300_71)"/>
+<ellipse cx="50.5" cy="17.5" rx="11.5" ry="17.5" fill="#4AB6D1"/>
+<ellipse cx="195.5" cy="17.5" rx="12.5" ry="17.5" fill="#4AB6D1"/>
+<rect x="44" y="69" width="27" height="27" fill="#4AB6D1"/>
+<rect x="107" y="69" width="27" height="27" fill="#4AB6D1"/>
+<rect x="170" y="69" width="27" height="27" fill="#4AB6D1"/>
+<rect x="44" y="131" width="27" height="27" fill="#4AB6D1"/>
+<rect x="107" y="131" width="27" height="27" fill="#4AB6D1"/>
+<rect x="170" y="131" width="27" height="27" fill="#4AB6D1"/>
+</svg>
