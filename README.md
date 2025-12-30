@@ -13,8 +13,5 @@
 - Никаких серверных технологий — чистый статик
 
 ## Автор
-X: @kimnkitae
-facebook: Kimnkitae
-instagram: kimnkitae
 Telegram: @max7c 
-Почта: mainworkkim@gmail.com
+Почта: mainworkkitae@gmail.com
