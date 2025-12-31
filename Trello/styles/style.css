@@ -54,8 +54,8 @@
 }
 
 .log-in__menu-link--btn {
-    color: white;
     text-decoration: none;
+    color: white;
 }
 
 .log-in__menu-item--btn {
@@ -64,11 +64,11 @@
     font-size: 20px;
 }
 
-/* SECTION AI */
+/* AI */
 
 .ai {
-    background-color: #DEEBFF;
     padding: 20px 0 15px 0;
+    background-color: #DEEBFF;
 }
 
 .ai__text {
@@ -83,22 +83,20 @@
     color: #0052CC;
 }
 
-/* SECTION EMAIL */
+/* EMAIL */
 
 .email {
     display: flex;
     align-items: center;
     justify-content: center;
     background-color: #f4f5f7;
-    
 }
 
 .email__container {
+    max-width: 970px;
     padding-left: 190px;
     padding-bottom: 100px;
-    max-width: 970px;
     margin: 0 auto;
-    
 }
 
 .email__input-btn {
@@ -114,8 +112,8 @@
     flex-direction: column;
     gap: 10px;
     padding-bottom: 20px;
-    font-size: 20px;
     font-family: "Charlie";
+    font-size: 20px;
 }
 
 .email__input-btn {
@@ -125,13 +123,13 @@
 }
 
 .email__btn {
-    font-family: "Charlie";
-    font-size: 16px;
     height: 50px;
     width: 150px;
     border: none;
     border-radius: 3px;
     background-color: rgb(70, 70, 255);
+    font-family: "Charlie";
+    font-size: 16px;
     color: white;
 }
 
@@ -155,10 +153,10 @@
 }
 
 .email__video {
-    font-family: "Charlie";
     display: flex;
     align-items: center;
     gap: 5px;
+    font-family: "Charlie";
 }
 
 .email__video-link {
@@ -171,7 +169,7 @@
     padding-right: 100px;
 }
 
-/* SECTION PRODUCTIVITY */
+/* PRODUCTIVITY */
 
 .productivity {
     padding-top: 15px;
@@ -197,14 +195,14 @@
     font-size: 20px;
 }
 
-/* SECTION MESSAGE */
+/* MESSAGE */
 
 .message {
     display: flex;
     flex-direction: column;
     align-items: center;
-    background-color: #0065FF;
     margin-top: 90px;
+    background-color: #0065FF;
 }
 
 .message-text {
@@ -212,7 +210,6 @@
     display: flex;
     flex-direction: column;
     padding-top: 40px;
-    
 }
 
 .message-text1, .message-text2 {
@@ -229,24 +226,23 @@
 }
 
 .message-container {
+    position: relative;
     display: flex;
     flex-direction: column;
     gap: 50px;
-    position: relative;
     top: 140px;
 }
 
 .message-block1, .message-block2 {
     display: flex;
     gap: 30px;
-    background-color: white;
-    padding: 30px;
-    border-radius: 10px;
     align-items: center;
-    max-width: 1000px;
     justify-content: space-between;
     margin: 0 auto;
-    
+    max-width: 1000px;
+    padding: 30px;
+    border-radius: 10px;
+    background-color: white;
 }
 
 .message-block1 {
@@ -268,10 +264,10 @@
 }
 
 .message-block1__text-h1, .message-block2__text-h1 {
-    font-size: 16px;
     display: flex;
     align-items: center;
     gap: 15px;
+    font-size: 16px;
 }
 
 .message-block1__text-text, .message-block2__text-text {
@@ -316,13 +312,13 @@
 }
 
 .email2__btn {
-    font-family: "Charlie";
-    font-size: 16px;
     height: 50px;
     width: 150px;
     border: none;
     border-radius: 3px;
     background-color: rgb(70, 70, 255);
+    font-family: "Charlie";
+    font-size: 16px;
     color: white;
 }
 
@@ -355,10 +351,10 @@
 }
 
 .footer-top {
-    border-bottom: 0.2px solid rgb(165, 165, 165);
     padding-left: 220px;
     padding-right: 220px;
     padding-bottom: 10px;
+    border-bottom: 0.2px solid rgb(165, 165, 165);
 }
 
 .footer__menu {
@@ -377,8 +373,8 @@
     display: flex;
     flex-direction: column;
     text-decoration: none;
-    color: white;
     gap: 10px;
+    color: white;
 }
 
 .footer__menu-item--main {
@@ -397,12 +393,11 @@
 }
 
 .footer-bottom {
-    
-    margin: 0 auto;
     display: flex;
-    padding-top: 20px;
+    margin: 0 auto;
     justify-content: space-around;
     gap: 50px;
+    padding-top: 20px;
 }
 
 .footer-language {
@@ -425,8 +420,8 @@
 }
 
 .footer-privacy__menu-img {
-    font-size: 12px;
     text-decoration: none;
+    font-size: 12px;
     color: white;
 }
 
